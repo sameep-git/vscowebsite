@@ -48,3 +48,24 @@ body {
             user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome, Edge, Opera and Firefox */
 }
+
+.card:hover {
+	transform: scale(1.05);
+	opacity: 0.9;
+}
+
+.pamphlet-img:hover {
+	transform: scale(1.025);
+}
+
+.btn-default {
+	background-color: #efefd0;
+	border-color: #004e89;
+	color: #1a659e;
+}
+
+.btn-default:hover, .btn-default:active, .btn-default:focus {
+	background-color: #1a659e;
+	color: #efefd0;
+	border-color: #1a659e;
+}
