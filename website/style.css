@@ -1,0 +1,50 @@
+.navbar-brand {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.b-example-divider {
+        width: 100%;
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+#navbartop {
+	background-color: #efefd0 !important;
+}
+
+.nav-text{
+	color: #1a659e !important;
+}
+
+.nav-link {
+	color: #004e89 !important;
+}
+
+#cards-container{
+	max-width: 1650px;
+	width: 100%;
+	margin: 0 auto;
+	background-color: #efefd0 !important;
+}
+
+body {
+	background-color: #FFFCF9 !important;
+}
+
+#colors-cards-bot {
+	background-color: #efefd0 !important;
+	color: #efefd0 !important;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
