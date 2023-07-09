@@ -10,7 +10,7 @@ I have also used PyTesseract, PIL to work on searching through Product Catalogs 
 
 ### TO-DO List:
 
-- [] Make a fucntioning website
-- [] Publish the website
-- [] Use NLP techniques to extract information from product catalogs
-- [] Set up a Contact Form using React
+- [ ] Make a fucntioning website
+- [ ] Publish the website
+- [ ] Use NLP techniques to extract information from product catalogs
+- [ ] Set up a Contact Form using React
